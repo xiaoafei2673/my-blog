@@ -33,5 +33,6 @@ tags:
 如果你对我的内容感兴趣，或者有任何建议，欢迎随时与我交流探讨！
 
 - 🌐 **博客地址**：[https://ethan-my-blog.vercel.app/](https://ethan-my-blog.vercel.app/)
+- 📦 **GitHub**：[https://github.com/xiaoafei2673/my-blog](https://github.com/xiaoafei2673/my-blog)
 - 🐧 **QQ交流**：1562754886
 :::
