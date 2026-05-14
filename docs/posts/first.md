@@ -31,4 +31,7 @@ tags:
 
 ::: tip 欢迎交流
 如果你对我的内容感兴趣，或者有任何建议，欢迎随时与我交流探讨！
+
+- 🌐 **博客地址**：[https://ethan-my-blog.vercel.app/](https://ethan-my-blog.vercel.app/)
+- 🐧 **QQ交流**：1562754886
 :::
